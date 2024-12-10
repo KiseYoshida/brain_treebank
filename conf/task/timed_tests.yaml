@@ -1,0 +1,5 @@
+name: classification_regression_task
+windows_start: ???
+windows_end: ???
+window_duration: ???
+num_repeat: 5 #replace with cross validation

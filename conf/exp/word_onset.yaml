@@ -1,0 +1,9 @@
+pre_onset_start: ???
+pre_onset_end: ???
+post_onset_start: ???
+post_onset_end: ???
+interval: 0.1 #pre_onset_start to pre_onset_end is interval ms long
+separation: 1.0 #pre_onset_start to post_onset_start is separation ms long
+
+search_start: -0.5 #pre_onset_start search begins here
+search_end: 0.0 #pre_onset_start search ends here

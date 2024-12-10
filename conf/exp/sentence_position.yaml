@@ -1,0 +1,7 @@
+#interval: 0.5 #pre_onset_start to pre_onset_end is interval ms long#TODO
+interval: 0.1 #pre_onset_start to pre_onset_end is interval ms long#TODO
+
+#search_start: -0.0 #pre_onset_start search begins here#TODO
+search_start: 0.0 #pre_onset_start search begins here
+#search_end: 0.1 #pre_onset_start search ends here#TODO
+search_end: 0.5 #pre_onset_start search ends here#TODO

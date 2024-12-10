@@ -1,0 +1,17 @@
+pos-verb
+pos-noun
+bin_head
+gpt2_surprisal
+word_diff
+word_length
+rms
+pitch
+delta_rms
+delta_pitch
+mean_pixel_brightness
+max_global_magnitude
+max_global_angle
+max_vector_magnitude
+max_vector_angle
+face_num
+idx_in_sentence

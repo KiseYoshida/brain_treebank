@@ -1,0 +1,19 @@
+name: movie_finetuning
+high_gamma: False
+samp_frequency: 2048
+raw_brain_data_dir: ???
+subject: ???
+brain_runs: ???
+electrodes: ???
+rereference: None
+normalization: False
+despike: False
+delta: ???
+duration: ???
+words: []
+cached_transcript_aligns: ???
+#cached_transcript_aligns: None
+#val_split: 0.00
+test_split: 0.2
+preprocessor: stft
+
