@@ -82,3 +82,8 @@ python3 run_time_tests.py +exp=timed_tests ++exp.runner.num_workers=0 \
 Relevant arguments:
 - `task.window_duration` is how much input (in seconds) each sliding window should contain
 - `window_step` is how much the sliding window should be shifted
+
+## Check alignment
+```
+python3 verify_frame_alignment.py cars-2 <movie_dir_path>/cars-2.mp4
+```
